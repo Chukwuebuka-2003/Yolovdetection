@@ -9,4 +9,4 @@ The apps.py file sontains Faster R-CNN, I am still testing with it, but you can 
 To run the app.py, execute this
 
 
-'''streamlit run app.py'''
+***streamlit run app.py**
